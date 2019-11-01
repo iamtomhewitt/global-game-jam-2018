@@ -1,0 +1,24 @@
+1. Get a fly able spaceship going with acceleration and mouse look steering. Done!
+
+2. Create asteroid field. Done!
+
+3. Create collection stuff spawner, make player able to collect stuff. Done!
+
+5. Create timer object that tracks player time, pickup time etc. Done!
+
+4. Create ‘upload’ area and get player able to 'transmit' stuff. Done!
+
+5. Simple Player HUD Done!
+
+6. Create enemies. Different types like fast and slow that follow the player (implement better follow algorithm later??) Done!
+
+7. Any additional touches like explosions and particles.
+
+8. Music, sound. 
+
+9. User friendly(main menu etc)
+
+10. Any extra touches and upload.
+
+
+POST PROCESSING
